@@ -22,8 +22,8 @@ MAIN_ADMIN_ID = int(os.getenv('MAIN_ADMIN_ID', '1417892611804368957'))
 DEFAULT_STORAGE_POOL = os.getenv('DEFAULT_STORAGE_POOL', 'default')
 BOT_VERSION = os.getenv('BOT_VERSION', '8.0-PRO')
 BOT_DEVELOPER = os.getenv('BOT_DEVELOPER', 'KingSlayer')
-BOT_THUMBNAIL_URL = os.getenv('https://cdn.discordapp.com/attachments/1518896744660729956/1533323744024465569/Gemini_Generated_Image_594gjj594gjj594g.png?ex=6a852a84&is=6a83d904&hm=073b4617ae070b970ee9297e58bd60b0c0782e9b0c5d25e0f7f31607c9a17a3c&')
-BOT_ICON_URL = os.getenv('https://cdn.discordapp.com/attachments/1518896744660729956/1533323743651430410/Gemini_Generated_Image_4sha384sha384sha.png?ex=6a852a84&is=6a83d904&hm=81501ecd3c2b1bdd69d983d75689e48c7d1aaa1afeeaa90e6fd507b09a77b9e5&')
+BOT_THUMBNAIL_URL = os.getenv('https://cdn.discordapp.com/attachments/1518891606407647362/1542399970236301343/StarCloud-Banner.png?ex=6a911769&is=6a8fc5e9&hm=cf07552ca552a54d12b7ab74978677903b344bdba47f450695becfbde897bb14&')
+BOT_ICON_URL = os.getenv('https://cdn.discordapp.com/attachments/1518891606407647362/1542399970647347221/StarCloud-Logo.png?ex=6a911769&is=6a8fc5e9&hm=dee542bb5cf8be9ec87f8ea9def4be2c084a4abbe9f7be4cc51dc21d6c743a05&')
 
 # OS Options (Added Kali, CentOS, Alpine along with standard ones)
 OS_OPTIONS = [
